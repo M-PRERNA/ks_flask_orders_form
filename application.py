@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 # from flaskmobility import Mobility
 
-
+# adding a comment
 local_server = True
 
 with open('config.json','r') as c:
